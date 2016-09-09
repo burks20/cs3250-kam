@@ -1,8 +1,8 @@
 {
-  "name": "grayscale",
-  "title": "Grayscale",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/grayscale",
+  "name": "new-age",
+  "title": "New Age",
+  "version": "3.3.7",
+  "homepage": "http://startbootstrap.com/template-overviews/new-age",
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
@@ -22,6 +22,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+  },
+  "dependencies": {
+    "simple-line-icons": "^2.3.2"
   }
 }
